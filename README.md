@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MauoHardy
-- 👀 I’m interested in automation and robotics
-- 🌱 I’m currently learning React
+- 👀 I’m interested in automation and robotics, and AI
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Unity
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/hardik-shah-694aba204/
 
 <!---
 MauoHardy/MauoHardy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

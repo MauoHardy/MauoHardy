@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MauoHardy
 - 👀 I’m interested in automation and robotics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me ...
 
 <!---

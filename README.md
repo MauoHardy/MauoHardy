@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MauoHardy
 - 👀 I’m interested in automation and robotics, and AI
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me https://www.linkedin.com/in/hardik-shah-694aba204/
 
 <!---
